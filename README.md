@@ -31,7 +31,7 @@ The Dataset contains images of Positive and Negative chest X-Ray images in AP vi
      ├── base.html
      ├── index.html
 ├── Uploads
-├── COVID19_Detector.ipynb
+├── CNN-covid19.ipynb
 ├── README.md
 ├── app.yaml
 ├── main.py
